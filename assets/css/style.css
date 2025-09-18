@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    color:black;
+}
+.color-navbar{
+    background-color: #162B4E;
+}
