@@ -21,3 +21,10 @@ header{
 header p{
     width: 60%;
 }
+.size-edu {
+    font-size: 2em;
+}
+.size-edu h2{
+    font-size: 1.5em;
+
+}
