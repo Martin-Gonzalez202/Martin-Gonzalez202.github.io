@@ -43,3 +43,13 @@ header p{
     border-width: 5px;
     border-color: rgb(98, 84, 158);
 }
+footer{
+    background-color: #162B4E;
+    height: 100px;
+    color: white;
+}
+footer img{
+    height: 80px;
+    width: auto;
+}
+
